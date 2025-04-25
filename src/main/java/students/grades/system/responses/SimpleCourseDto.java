@@ -10,7 +10,6 @@ public class SimpleCourseDto {
 
     public SimpleCourseDto() {
     }
-
     public SimpleCourseDto(Long id, String name, String description) {
         this.id = id;
         this.name = name;
